@@ -4,8 +4,9 @@
 
 Five iPhone apps and the servers behind them. **Aresium** sorts spending from your bank's own exports, **Arestemis**
 runs searches for flats, things for sale and prices, **Arestoteles** keeps a knowledge map searched by meaning,
-**Aresus** watches the server and the machines, and the **Ares Empire** hub joins them under one account. Each app is
-native SwiftUI, in English and German, light and dark: [the apps on patrikbreeck.com](https://patrikbreeck.com/en/apps/).
+**Aresus** watches the server and the machines, and the **Ares Empire** hub holds the shared account and the overview.
+Each app is native SwiftUI, in English and German, light and dark:
+[the apps on patrikbreeck.com](https://patrikbreeck.com/en/apps/).
 
 <table>
   <tr>
